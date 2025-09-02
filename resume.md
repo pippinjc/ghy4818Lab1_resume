@@ -5,14 +5,14 @@ Phone: 919-397-2122
 ### Summary
 I am currently pursuing dual degrees in Geography and Community & Regional Planning, with a GIS Certificate at Appalachian State University (Class of 2026). I am eagar to apply my skills in spatial analysis, mapping, and sustainable planning to real-world projects and internships. 
 
-<img src="/img/appstate_logo.png" width="125"> 
+<img src="img/appstate_logo.png" width="125"> 
 
 
 ### Education
 ###### Expected Graduation - Spring 2026
-*Community and Regional Planning (B.S.)*
-*Geography, General Concentration (B.S.)*
-*Geographic Information Systems Certification*
+- *Community and Regional Planning (B.S.)*
+- *Geography, General Concentration (B.S.)*
+- *Geographic Information Systems Certification*
 
 [Department of Geography and Planning.](http://geo.appstate.edu)
 ### Work Experience
@@ -43,4 +43,5 @@ I am currently pursuing dual degrees in Geography and Community & Regional Plann
 * Problem Solving
 * Collaboration
 * Organization
+
 
